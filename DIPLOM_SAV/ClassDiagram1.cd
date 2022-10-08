@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DIPLOM_SAV.heard_games.ataked_planed_timer">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAKAgAACAAAAAAABAAIAkAQAACAIgAAAACA=</HashCode>
+      <FileName>heard_games\ataked_planed_timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.bilds_tech">
+    <Position X="15" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAACIIAAAIAAEAAgAAAIAAACAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>heard_games\bilds_tech.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.coorditates">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAACABAAAA=</HashCode>
+      <FileName>heard_games\coorditates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.From_F_inform_user">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAAAAAAAAAAAAAEQAAIAQACAEAAIIAEAASAAREAA=</HashCode>
+      <FileName>heard_games\From_F_inform_user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.fleets_deff">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAgAAAAAAAACAAAAAAABwLwDEAgAAAA=</HashCode>
+      <FileName>heard_games\fleets_deff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.galactikCoor">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgAAAAACAAAAAAAAAAAAAAAAAAAAIAgAAAAAAAA=</HashCode>
+      <FileName>heard_games\galactikCoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.game_messages">
+    <Position X="12" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAIAAAAAAAACCABAAAAAAEASCAEAAAAABAAAADIgA=</HashCode>
+      <FileName>heard_games\game_messages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.pay_to_fleets_deff">
+    <Position X="13.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACAAAAAAAAEAggACAAAAACCQCIIAAAiBAAAAA=</HashCode>
+      <FileName>heard_games\pay_to_fleets_deff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.planets">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAZAAAAAAAIAEAJAAAACAAAACAAAAAGAEIZIAQAgA=</HashCode>
+      <FileName>heard_games\planets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.prom_war_level">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAAAAAAAQAAAEAAAABAEAAAgAAABAACAAAA=</HashCode>
+      <FileName>heard_games\prom_war_level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.requirement_trb">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAACAAAAABEAEAAAAAAA=</HashCode>
+      <FileName>heard_games\requirement_trb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.rating_list">
+    <Position X="15" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAAAAAAAAAAAAAIAQAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>heard_games\rating_list.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.resurs_planets">
+    <Position X="15.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAAAAACAAQCAAAAQAAAAAIAQAACAAEAABAAAgAE=</HashCode>
+      <FileName>heard_games\resurs_planets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.sms_vars">
+    <Position X="10.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAIAAAAABAAAAAAAAABAAAEgCAAAAACAQgA=</HashCode>
+      <FileName>heard_games\sms_vars.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.Spy_report">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAFCAAAAAAAIEAAAAAAAAEACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>heard_games\Spy_report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.statistik_user">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAQAAAAAAAAAAAFAAARAABAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>heard_games\statistik_user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.technologies">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAFAAAAEAIAIAAAAAAAAwEAAAAAABAAAQAAAAAA=</HashCode>
+      <FileName>heard_games\technologies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.timer_tech_prom_deff_fleets">
+    <Position X="8.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAABAAAAAAAAAAAgAAEABQACAQAIAoAAAAIA=</HashCode>
+      <FileName>heard_games\timer_tech_prom_deff_fleets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.users">
+    <Position X="12.5" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="DIPLOM_SAV.heard_games.users.status_online" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>heard_games\users.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAARAAgEAAAAAAAlIAQAAAAAAASACAAgAAAAB4ACEgA=</HashCode>
+      <FileName>heard_games\users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.heard_games.var_report">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAQEAAAEAAAAAAQAAACAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>heard_games\var_report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DIPLOM_SAV.war_report" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAACCgAAAAAACAAAACAAQAAAAAAAIAIQBAACA=</HashCode>
+      <FileName>war_report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.view_F" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>1yQQAAgUALJokJKBhAWEIIBChiA8YBQAwGGphQIQAKQ=</HashCode>
+      <FileName>view_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.fleets_F" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wQQdK8RAHAogVWBBP23XAJCgwE4IAEywGAghQD/KzU=</HashCode>
+      <FileName>Verfs_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.user_sms" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEAIAAAACCEQBAgAICIAAACIAAAIAAAAAAAAADAAAA=</HashCode>
+      <FileName>user_sms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.user_setting" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8GAgIhAgAKCIARhxAASEQAACCIAgGA0AUAAgASD/pzo=</HashCode>
+      <FileName>user_setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.spy_sms" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wEAIAACACCEABIBEACAAFASACACAAAAAIAC/QLgADA=</HashCode>
+      <FileName>spy_sms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.spy_forms_planets" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAABAAACAIAFAAAACAAAACAAAYAAAAAGgABAAAAAA=</HashCode>
+      <FileName>spy_forms_planets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.Simulytor_F" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wEAARAQgCEiARgQEACBAAACColIAAgAQAAEAACAIDA=</HashCode>
+      <FileName>Simulytor_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.setn_sms" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEAJAAAACABQBAAAACIACACAAAAIAAAAAAAAADAAAA=</HashCode>
+      <FileName>setn_sms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.researches_F" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQgIhAAAKAAAQAAgADAQP4HCAAANAAAwAAgAABAACI=</HashCode>
+      <FileName>researches_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.regestration" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICAAIIAQAKAAABAAAACAAAACAAAAAAgAgQACAABAASA=</HashCode>
+      <FileName>regestration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.rating_F" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASCAABAAAACAAIBCoAAECAAIAAAAEQABACA=</HashCode>
+      <FileName>rating_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.messing" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCSQIBAICLAoQRKBDgKFEAACCOC4ZwACREAhgQId5BY=</HashCode>
+      <FileName>messing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.market_F" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgBMQACQAABQQBACAAAACAAAIAAAAAAAAAQAAACA=</HashCode>
+      <FileName>market_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.main_F" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYYFAAshQyAKQTQpwATwBCADACEKEADDUKQAIBQAEOI=</HashCode>
+      <FileName>main_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.inform_user" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wACgAAQCCCSYJAADACgAIAKAGAAACoAQAADEQGQADA=</HashCode>
+      <FileName>inform_user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.imperiy_F" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wtAAAASECAAABACEAKAgP9HmEECABCEgkAEAEDA/7I=</HashCode>
+      <FileName>imperiy_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.Galactika_F" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QTAgIhgRIDCgBRiBQSKAYAACIADQGMEf8AQgWQBAAKI=</HashCode>
+      <FileName>Galactika_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.forma_treb_FLT_DEFF" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACIAABAAAACAAAACAAAAAAAAAAAAAAAoICA=</HashCode>
+      <FileName>forma_treb_FLT_DEFF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.Fleet_F" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIhAAACAAARAAgACAQAACAAAIEAAAQAAgCQBAACI=</HashCode>
+      <FileName>Fleet_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.F_Attaked" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAIgCBADAggBAAACCAAAjCACAgBABAQAAAAYBAFCA=</HashCode>
+      <FileName>F_Attaked.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.Deff_F" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0AsAIhAAACCAABAAgACAQAACAAAAEAEAAAAACQBAACI=</HashCode>
+      <FileName>Deff_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.Bye_Flot_And_Deff" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UYAAAgpQACAiCBURAhCQJQCCIgAAAEUAoGUABQAAADA=</HashCode>
+      <FileName>Bye_Flot_And_Deff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.Bilds_Aren_F" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARgIpgAACAAAQAigACAwAAOEGEAFADEQAAkAUDPAAI=</HashCode>
+      <FileName>Bilds_Aren_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.Bilds_And_Reserv_Date_F" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EwAAQAJRACIKABAAAQXQBAACoAAwAgEAwGCCJRAoIDA=</HashCode>
+      <FileName>Bilds_And_Reserv_Date_F.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DIPLOM_SAV.avtorization" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAgASAKAAABQAAASCJcACAAAAAIgAAAAAAABAACA=</HashCode>
+      <FileName>avtorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
